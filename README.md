@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Arya Rizki Andaru**.<br>
 
-Saya seorang **Junior Android Developer**.<br>
+Saya adalah seorang **Junior Android Developer**.<br>
 
 Saya memiliki beberapa aplikasi yang sudah saya buat sendiri sejak 2023.<br>
 
