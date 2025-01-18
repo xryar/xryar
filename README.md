@@ -1,12 +1,12 @@
-# Halo semua!
+# Hello Everyone!
 
-Perkenalkan nama saya **Arya Rizki Andaru**.<br>
+My name is **Arya Rizki Andaru**.<br>
 
-Saya adalah seorang **Junior Android Developer**.<br> 
+I am a **Junior Android Developer**.<br> 
 
-Saya memiliki beberapa aplikasi yang sudah saya buat sendiri sejak 2023.<br>
+I have several applications that I have made myself since 2023.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedinku](https://www.linkedin.com/in/aryarizkiandaru/) ya. 
+If you want to know me, please follow my [LinkedIn account.](https://www.linkedin.com/in/aryarizkiandaru/)
 
 ### Github Statistic
 <p align="left">
