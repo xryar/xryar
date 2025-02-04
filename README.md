@@ -6,7 +6,7 @@ I am a **Junior Android Developer**.<br>
 
 I have several applications that I have made myself since 2023.<br>
 
-If you want to know me, please follow my [LinkedIn account.](https://www.linkedin.com/in/aryarizkiandaru/)
+If you want to know me, please follow my [LinkedIn account.](https://www.linkedin.com/in/aryarizkiandaru/) 
 
 ### Github Statistic
 <p align="left">
