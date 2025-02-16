@@ -1,4 +1,4 @@
-# Hai Everyone!
+# Hi Everyone!
 
 My name is **Arya Rizki Andaru**.<br>
 
