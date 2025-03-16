@@ -1,17 +1,31 @@
-# Hi Everyone!
+<div align="center">
 
-My name is **Arya Rizki Andaru**.<br>
+# Hi there! 👋
 
-I am a **Junior Android Developer**.<br> 
+</div>
 
-I have several applications that I have made myself since 2023.<br>
+Welcome to my GitHub profile! I'm a passionate developer who loves building applications using modern technologies. Here, you'll find projects and experiments primarily using:
 
-If you want to know me, please follow my [LinkedIn account.](https://www.linkedin.com/in/aryarizkiandaru/) 
+## 🚀 Tech Stack
 
-### Github Statistic
-<p align="left">
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+## 📌 About Me
+- 🌱 I’m currently learning **JavaScript and Go** to enhance my development skills
+- 💬 Ask me about **Android Development, APIs, and scalable applications**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryarizkiandaru/)
+
+## 📂 Featured Projects
+- 🚧 **[Gebung](https://github.com/xryar/Gebung)** -  Your personal finance management application
+- 🚧 **[InventarisHub ](https://github.com/xryar/Inventaris-App)** - An item management application
+
+## 📊 GitHub Stats
 <a href="https://github.com/xryar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xryar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xryar&layout=compact&layout=compact&theme=algolia"/>
 </a>
-</p>
+
+Let's connect and build something awesome together! 😃
+
