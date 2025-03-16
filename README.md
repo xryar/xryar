@@ -1,10 +1,9 @@
 <div align="center">
-
-# Hi there! 👋
-
+  <h1> Hi, I'am Arya Rizki Andaru </h1>
+  <h3>Android Developer | Web Developer</h3>
 </div>
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building applications using modern technologies. Here, you'll find projects and experiments primarily using:
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
 ## 🚀 Tech Stack
 
