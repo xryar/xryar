@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi!, I'am Arya Rizki Andaru </h1>
-  <h3>Fullstack Android & Web Developer</h3>
+  <h3>Fullstack Web & Android Developer</h3>
 </div>
 
 <div align="center">
